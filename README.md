@@ -19,10 +19,9 @@
 
 ### 🧠 Miscellaneous Facts
 
-- 💬 Languages I know: **English, Morse Code, Binary**
-- 🧩 I enjoy learning random tech-related skills
-- ⚡ Fun fact: I can read and write in dots, dashes, and 1s & 0s
-- 🎯 Always exploring new tools and coding tricks
+- 💬 I can speak English... no duh
+- 🔐 Discord Mod and Admin - Works on bots.
+- 📡 Roblox Developer!
 
 ---
 
@@ -63,5 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=777BB4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Prestoncodinghappy&label=Profile%20Views&color=777BB4&style=flat-square" alt="Profile Views" />
 </p>
