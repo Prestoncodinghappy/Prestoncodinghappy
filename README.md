@@ -11,9 +11,18 @@
 ### 📅 Important Milestones
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎂_Birthday-Unknown-777BB4?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/🎂_Birthday-September-777BB4?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/📍_Location-Earth-777BB4?style=for-the-badge" />
 </p>
+
+---
+
+### 🧠 Miscellaneous Facts
+
+- 💬 Languages I know: **English, Morse Code, Binary**
+- 🧩 I enjoy learning random tech-related skills
+- ⚡ Fun fact: I can read and write in dots, dashes, and 1s & 0s
+- 🎯 Always exploring new tools and coding tricks
 
 ---
 
@@ -33,14 +42,14 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Prestoncodinghappy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prestoncodinghappy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prestoncodinghappy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
