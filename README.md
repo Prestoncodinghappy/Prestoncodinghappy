@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Creative+Coder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Github+Education+is+Peak;Coding+is+Peak;I+like+s̶c̶h̶o̶o̶l̶" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,github,linux,git,vscode,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=py,lua,html,visualstudio" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -45,22 +45,11 @@
 
 ---
 
-### 🐍 The Contribution Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📱 Connect with Me
 
 <p align="center">
   <a href="https://discord.com/users/unknown_preston">
     <img src="https://img.shields.io/badge/Discord-unknown__preston-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
