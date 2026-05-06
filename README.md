@@ -19,10 +19,10 @@
 
 ### 🧠 Miscellaneous Facts
 
-- 💬 I can speak English  
-- 🔐 I like to troll people with binary and Morse code  
-- 📡 trying to learn Morse code from head  
-- 🤖 sometimes I think in 1s and 0s  
+- 💬 I can speak English...DUH
+- 🔐 Roblox Developer
+- 📡 Discord Bot Coder
+- Carter x Plantary...
 
 ---
 
