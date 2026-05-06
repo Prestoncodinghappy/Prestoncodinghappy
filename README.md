@@ -36,6 +36,27 @@
 
 ---
 
+### 🏢 DCI Studios & Roles
+
+<p align="center">
+  <a href="#">
+    <strong>Studio</strong>
+  </a> |
+  <a href="#">
+    <strong>Portfolio</strong>
+  </a> |
+  <a href="#">
+    <strong>DCI Counting</strong>
+  </a>
+</p>
+
+> **President @ DCI Studios** — Leading development, projects, and direction of the studio.  
+> **Editor-in-Chief (News)** — Helping manage and oversee news content and publishing.
+
+`Focus: Development / Leadership / Content Management / Community`
+
+---
+
 ### 📱 Connect with Me
 
 <p align="center">
