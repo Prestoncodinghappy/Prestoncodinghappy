@@ -47,3 +47,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prestoncodinghappy&label=Profile%20Views&color=777BB4&style=flat-square" alt="Profile Views" />
 </p>
+
+<p align="center">
+  <span style="color:red; font-weight:bold;">⚠️ discord username is all lowercase: unknown_preston</span>
+</p>
