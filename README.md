@@ -39,13 +39,10 @@
 ### 🏢 DCI Studios & Roles
 
 <p align="center">
-  <a href="#">
+  <a href="https://dcistudios.xyz/">
     <strong>Studio</strong>
   </a> |
-  <a href="#">
-    <strong>Portfolio</strong>
-  </a> |
-  <a href="#">
+  <a href="https://dcicounting.com/">
     <strong>DCI Counting</strong>
   </a>
 </p>
