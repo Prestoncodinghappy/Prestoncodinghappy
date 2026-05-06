@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/unknown_preston">
-    <img src="https://img.shields.io/badge/Discord-unknown%5Fpreston-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-unknown__preston-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚠️_discord-unknown_preston_(lowercase)-ff0000?style=for-the-badge" alt="Discord Lowercase Warning" />
+  <img src="https://img.shields.io/badge/⚠️_discord-unknown__preston_(lowercase)-ff0000?style=for-the-badge" alt="Discord Lowercase Warning" />
 </p>
