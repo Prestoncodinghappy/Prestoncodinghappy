@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Github+Education+is+Peak;Coding+is+Peak;I+like+s̶c̶h̶o̶o̶l̶" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=500&lines=Github+Education+is+Peak;Coding+is+Peak;i+speak+in+dots+and+dashes+sometimes;01001000+01101001;morse+code+%3E+english+sometimes;i+forgot+what+grass+looks+like;beep+boop+translating+human..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,9 +19,10 @@
 
 ### 🧠 Miscellaneous Facts
 
-- 💬 I can speak English... no duh
-- 🔐 Discord Mod and Admin - Works on bots.
-- 📡 Roblox Developer!
+- 💬 I can speak English  
+- 🔐 I like to troll people with binary and Morse code  
+- 📡 trying to learn Morse code from head  
+- 🤖 sometimes I think in 1s and 0s  
 
 ---
 
@@ -35,29 +36,11 @@
 
 ---
 
-### 📊 Stats & Activity
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Prestoncodinghappy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prestoncodinghappy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prestoncodinghappy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📱 Connect with Me
 
 <p align="center">
   <a href="https://discord.com/users/unknown_preston">
-    <img src="https://img.shields.io/badge/Discord-unknown__preston-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-unknown_preston-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
