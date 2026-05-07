@@ -22,7 +22,7 @@
 - 💬 I can speak English...DUH
 - 🔐 Roblox Developer
 - 📡 Discord Bot Coder
-- Carter x Plantary...
+- Carter x Planetary...
 
 ---
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,lua,html,visualstudio" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,lua,html,vscode" alt="My Tech Stack" />
   </a>
 </p>
 
