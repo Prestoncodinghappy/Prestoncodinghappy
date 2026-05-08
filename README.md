@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,lua,html,visualstudio,javascript,nodejs" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,lua,html,visualstudio,javascript,nodejs,css,mongodb,postgresql" alt="My Tech Stack" />
   </a>
 </p>
 
