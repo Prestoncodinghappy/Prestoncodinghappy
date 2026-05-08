@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=500&lines=Github+Education+is+Peak;Coding+is+Peak;i+speak+in+dots+and+dashes+sometimes;01001000+01101001;morse+code+%3E+english+sometimes;i+forgot+what+grass+looks+like;beep+boop+translating+human..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=500&lines=Github+Education+is+Peak;Coding+is+Peak;i+speak+in+dots+and+dashes;Building+Cool+Projects;Creator+%26+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎂_Birthday-September-777BB4?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/📍_Location-Earth-777BB4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Experience-Multi--Language-777BB4?style=for-the-badge" />
 </p>
 
 ---
@@ -22,7 +23,9 @@
 - 💬 I can speak English...DUH
 - 🔐 Roblox Developer
 - 📡 Discord Bot Coder
-- Carter x Plantary...
+- 🎮 Game Development Enthusiast
+- 🌟 Carter x Plantary...
+- 💡 Always learning new technologies
 
 ---
 
@@ -30,9 +33,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,lua,html,visualstudio" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,lua,html,visualstudio,javascript,nodejs" alt="My Tech Stack" />
   </a>
 </p>
+
+---
+
+### 💼 Current Projects & Interests
+
+- 🎯 Developing innovative Discord bots
+- 🏗️ Building scalable applications
+- 🎨 Creating interactive game experiences
+- 📚 Contributing to open-source communities
 
 ---
 
@@ -54,6 +66,14 @@
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prestoncodinghappy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
 ### 📱 Connect with Me
 
 <p align="center">
@@ -65,3 +85,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prestoncodinghappy&label=Profile%20Views&color=777BB4&style=flat-square" alt="Profile Views" />
 </p>
+
+---
+
+### ✨ Fun Facts
+
+- 🎵 Code is my favorite music
+- 🚀 Always pushing the limits
+- 🌍 Building the future, one line at a time
