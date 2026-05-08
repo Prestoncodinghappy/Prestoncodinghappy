@@ -24,7 +24,7 @@
 - 🔐 Roblox Developer
 - 📡 Discord Bot Coder
 - 🎮 Game Development Enthusiast
-- 🌟 Carter x Plantary...
+- 🌟 Carter x Planetary...
 - 💡 Always learning new technologies
 
 ---
