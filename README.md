@@ -23,9 +23,8 @@
 - 💬 I can speak English...DUH
 - 🔐 Roblox Developer
 - 📡 Discord Bot Coder
-- 🎮 Game Development Enthusiast
+- 🎮 Game Development Person
 - 🌟 Carter x Plantary...
-- 💡 Always learning new technologies
 
 ---
 
@@ -90,6 +89,4 @@
 
 ### ✨ Fun Facts
 
-- 🎵 Code is my favorite music
-- 🚀 Always pushing the limits
-- 🌍 Building the future, one line at a time
+I BREATH
